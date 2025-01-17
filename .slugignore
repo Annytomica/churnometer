@@ -1,2 +1,2 @@
 *.ipynb
-/inputs
+inputs/datasets
